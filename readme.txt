@@ -1,3 +1,8 @@
+CPU & Memory Simulation
+CPU forks to create a child process which executes the memory.
+CPU fetches instructions from the child process using a pipe.
+
+
 File Descriptions:
 
 sample5.txt - A sample input file containing the user program input for the Memory. It should output my name "SONIA" 5 times
