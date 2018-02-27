@@ -1,0 +1,35 @@
+1 //load 5
+5
+14 //copytoX
+1 //load S
+83
+9 //output
+2
+1 //load O
+79
+9 //output
+2
+1 //load N
+78
+9 //output
+2
+1 //load I
+73
+9 //output
+2
+1 //load A
+65
+9 //output
+2
+1 //load newline
+10
+9 //output newline
+2
+26 //decX
+15 //copyFromX
+22 //Jump if not equal
+2
+50 //End
+
+.1000
+30
