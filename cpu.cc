@@ -168,7 +168,7 @@ bool loader(char*  filename, Memory &memory) {
 			}
 			else
 			{
-				if(line[0] == ' ' || line[0] == '/')
+				if(line[0] == ' ' || line[0] == '/') //check if it is a comment
 					continue;
 				else {
 					ss<<line;
